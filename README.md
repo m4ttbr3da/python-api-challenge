@@ -2,7 +2,7 @@
 
 ## Background
 
-Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. Using Python requests, APIs, and JSON traversals, this project answers the basic question: "What's the weather like as we approach the equator?"
+Using Python requests, APIs, and JSON traversals, this project answers the basic question: "What's the weather like as we approach the equator?"
 
 ## Part I - WeatherPy
 
