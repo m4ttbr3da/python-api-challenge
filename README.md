@@ -25,7 +25,7 @@ My first requirement was to create a series of scatter plots to showcase the fol
 
 After each plot I added a sentence or too explaining what the code is and analyzing.
 
-My second requirement is to run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
+My second requirement was to run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
 * Northern Hemisphere - Temperature (F) vs. Latitude
 * Southern Hemisphere - Temperature (F) vs. Latitude
